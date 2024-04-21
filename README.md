@@ -1,5 +1,6 @@
-Estudiant a la Facultat d'Informàtica de Barcelona, a la UPC
-Menció en Enginyeria del Software
+Estudiant a la Facultat d'Informàtica de Barcelona, a la UPC.
+
+Menció en Enginyeria del Software.
 
 Aquí he penjat alguns dels projectes i apunts que he anat fent durant la carrera.
 
