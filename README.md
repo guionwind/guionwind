@@ -1,6 +1,6 @@
-Estudiant d'Enginyeria Informàtica a la FIB-UPC amb menció en Enginyeria de Software.
+Computer Engineering student at FIB-UPC, specialized in Software Engineering.
 
-Aquí trobaràs els meus projectes i alguns apunts que he anat fent durant la carrera.
+Here you'll find my projects, as well as some notes from my time at university.
 
 <!---
 guionwind/guionwind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
