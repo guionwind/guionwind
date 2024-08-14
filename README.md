@@ -1,4 +1,4 @@
-Computer Engineering student at FIB-UPC, specialized in Software Engineering.
+Software Engineering student at FIB-UPC, currently doing my internship at Cleverea.
 
 Here you'll find my projects, as well as some notes from my time at university.
 
