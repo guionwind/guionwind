@@ -1,4 +1,4 @@
-📖 Software Engineering student at FIB-UPC, currently working on my End-of-degree Project.
+📖 Software Engineering student at FIB-UPC, currently working on my End-of-degree Project. 
 
 💼 Looking for job opportunities! Previous work experience @ Cleverea as Front-end Developer w/Angular.
 
