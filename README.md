@@ -1,6 +1,6 @@
 📖 Software Engineering student at FIB-UPC, working on my End-of-degree Project. 
 
-💼 Currently learning C#, .NET for Backend development and QA @ Vueling University!
+💼 Currently learning .NET, C# and QA @ Vueling University!
 
 ✨ Here you'll find my projects, as well as some notes I took during my studies.
 
