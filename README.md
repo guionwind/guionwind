@@ -1,8 +1,8 @@
-📖 Software Engineering student at FIB-UPC, working on my End-of-degree Project. 
+📖 Software Engineering student at FIB-UPC, working on my End-of-degree Project
 
-💼 Currently learning .NET, C# and QA @ Vueling University!
+💼 Front-end Angular developer @ Vueling
 
-✨ Here you'll find my projects, as well as some notes I took during my studies.
+✨ Here you'll find my personal projects, as well as some notes I took during my studies!
 
 <!---
 guionwind/guionwind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
